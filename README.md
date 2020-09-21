@@ -1,4 +1,10 @@
-# Proof-of-Stake-Cryptocurrency-generator ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/coin_generator)
+# Proof-of-Stake-Cryptocurrency-generator
+
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](/LICENSE)
+[![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/coin_generator)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
+[![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
+
 Create your own Proof of Stake cryptocurrency with its own blockchain based on "Nxt Blockchain Creation Kit".
 It should satisfy the requirements of the Jelurida Public License version 1.1 for the Nxt Public Blockchain Platform.
 Basically 10% of your tokens should be given to the owners of the Nxt Cryptocurrency. Furthermore, the source needs to be disclosed and under the same license. Keep in mind that this generator is not perfect!
@@ -13,6 +19,7 @@ If you are an advanced user follow directly the official tutorial:
 ## What are the Cryptocurrency built with this generator?
 
 * Motive - https://motive.network
+* Meteor - https://github.com/Minecraft-Meteor
 
 ## Requirements
 * Java
@@ -26,6 +33,9 @@ If you are an advanced user follow directly the official tutorial:
 
 ### How to install NodeJS
 * General - https://nodejs.org/en/download/
+
+## Video tutorial
+* [Create your blockchain with that cryptocurrency](https://www.youtube.com/watch?v=_Ww5IZZB0WY) (French with English Subtitle)
 
 ## Step 1 - Download the Nxt blockchain and create the genesis block
 1. Clone this repository with `git clone https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator`, also feel free to fork this repository!
@@ -81,6 +91,11 @@ If the command line to launch forging does not work you can do it with the GUI a
 
 ## What is next?
 * You can find the source of the mobile app in the `mobile` folder
+
+## ⭐️ Show your support
+Please ⭐️ this repository if this project helped you!
+
+<a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
 
 ## Buy me a beer
 If you like this project, feel free to donate:
